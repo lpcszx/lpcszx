@@ -14,7 +14,7 @@
 
 ### Links Rápidos
 
-[Repositórios](https://github.com/SEU_USUARIO?tab=repositories)
+[Repositórios](https://github.com/lpcszx?tab=repositories)
 •
 [Projetos](https://github.com/SEU_USUARIO)
 •
