@@ -6,7 +6,7 @@
 
 <img src="https://raw.githubusercontent.com/KatakaBot/Imagens/refs/heads/main/656f9b578c5d45d9869a0a52723dd335.gif" width="600">
 
-### Desenvolvedor de Bots para Discord, projetos Roblox e automações.
+### Um pouco de tudo
 
 ![Roblox](https://img.shields.io/badge/Roblox-Studio-000000?style=for-the-badge&logo=roblox&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-Bots-5865F2?style=for-the-badge\&logo=discord\&logoColor=white)
