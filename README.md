@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/KatakaBot/Imagens/refs/heads/main/656f9b578c5d45d9869a0a52723dd335.gif" width="600">
+<img src="https://raw.githubusercontent.com/oiilukazz/oiilukazz/refs/heads/main/1295-kirito.png" width="600">
 
 ### Um pouco de tudo
 
