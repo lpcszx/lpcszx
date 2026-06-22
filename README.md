@@ -1,6 +1,6 @@
 <div align="center">
 
-# Lucas
+# Lukazz Valodsky
 
 <div align="center">
 
