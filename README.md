@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/oiilukazz/oiilukazz/refs/heads/main/roblox-rap-discord-banner.gif">
+<img src="https://raw.githubusercontent.com/lpcszx/lpcszx/refs/heads/main/banner.gif">
 
 ### Um pouco de tudo
 
