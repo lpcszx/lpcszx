@@ -1,6 +1,6 @@
 <div align="center">
 
-# Lukazz Valodsky
+# Lucas Prince C. de Souza
 
 <div align="center">
 
